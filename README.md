@@ -28,9 +28,12 @@ This repository contains a Power BI dashboard created for **Elizium Hotels** to 
 
 The dashboard consists of the following pages, each focusing on a specific aspect of hotel operations:
 
-1. **Measures**: 
-2. **Dashboard**:
-
+1. **Summary Page**: A high-level overview of key metrics like revenue, occupancy rates, and bookings.
+2. **Revenue Analysis**: Visualizations of monthly and yearly revenue trends.
+3. **Room Utilization**: Insights into room occupancy, average length of stay, and underutilized room types.
+4. **Booking Behavior**: Patterns in booking channels, lead times, and cancellation rates.
+5. **Property Key Metrics**: Performance insights for individual properties including revenue, occupancy rates, and customer trends.
+   
 ## Goals of the Dashboard
 
 This dashboard is designed to help **Elizium Hotels**:
